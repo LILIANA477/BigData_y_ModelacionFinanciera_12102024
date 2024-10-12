@@ -16,5 +16,4 @@ Herramientas de modelación financiera
 2. Segundo elemento de la lista
 3. Tercer elemento de la lista
 #### [Mi universidad Tadeo Lozano](https://www.utadeo.edu.co/es)
-![Logo](https://www.google.com/search?sca_esv=2dac060d692f34ee&rlz=1C1FHFK_esCO1097CO1097&q=logo+tadeo&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdzTfxpAVBoexMFZnKJBpl_NibeLqpdqLlYXarYwntqndhqBN-wXZg0xSb2G09iERethf4VNvk4alLqIa4h6X5e3e13weHRpC0uFje19AJM8zjqcWi-uWMfjHcjnWxImDTFp7GjJr32eNFLdZ1-hFzLbq_yOCkVfaUuTc9OEoOW5IOlodyw&sa=X&ved=2ahUKEwjgyIbsgImJAxU8RzABHRPyHJcQtKgLegQIERAB&biw=1280&bih=585&dpr=1.5#vhid=fQmGrjwcy6ENGM&vssid=mosaic)
-
+![Logo](https://govco-prod-webutils.s3.amazonaws.com/uploads/2022-12-13/d50f15a1-7851-407a-98c4-5bb14ee301ae-1imagen_noticia.svg)
